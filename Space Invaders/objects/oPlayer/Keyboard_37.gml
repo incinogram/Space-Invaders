@@ -1,0 +1,1 @@
+if x > oSpawner.initialPlayerX x -= 4

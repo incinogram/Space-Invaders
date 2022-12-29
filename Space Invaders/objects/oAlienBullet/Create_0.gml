@@ -1,0 +1,1 @@
+global.bulletCount += 1

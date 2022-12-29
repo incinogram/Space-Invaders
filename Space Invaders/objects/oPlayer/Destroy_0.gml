@@ -1,0 +1,1 @@
+oManager.playerHP -= 1

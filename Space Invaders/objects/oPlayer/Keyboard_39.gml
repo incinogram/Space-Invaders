@@ -1,0 +1,1 @@
+if x < oSpawner.initialPlayerX + 580 x += 4
